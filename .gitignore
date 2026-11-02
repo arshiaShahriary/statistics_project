@@ -20,3 +20,4 @@ auto/
 *.bcf
 *.csv
 reports/phase1/img
+*.gitignore
